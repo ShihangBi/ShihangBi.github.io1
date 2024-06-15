@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Shihang</title>
+    <link>http://www.Shihang.com/authors/</link>
+      <atom:link href="http://www.Shihang.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.Shihang.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>http://www.Shihang.com/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://www.Shihang.com/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.Shihang.com/authors/admin/</guid>
+      <description>&lt;p&gt;I am a Master&#39;s student at the University of Birmingham, specializing in Advanced Mechanical Engineering. Previously, I completed my undergraduate studies at Shandong Jianzhu University, where I earned a B.S. in Mechanical and Electronic Engineering under the supervision of Prof. Lv. I graduated with an Upper Second Class (2:1) degree and was recognized as one of the Excellent Students in Shandong Province.&lt;/p&gt;
+&lt;p&gt;During my undergraduate studies, I actively participated in internships and research competitions, winning numerous awards. I also contributed to the publication of an EI conference paper.&lt;/p&gt;
+&lt;p&gt;In collaboration with Prof. Lv, I co-founded the Luyao Laboratory at Shandong Jianzhu University. As the team leader, I worked with various team members to create projects that represented Shandong Jianzhu University in numerous provincial and national competitions in China. These projects mainly focused on communication, mechanical electronics, and new energy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

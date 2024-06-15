@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Shihang</title>
+    <link>http://www.Shihang.com/project/</link>
+      <atom:link href="http://www.Shihang.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>http://www.Shihang.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>http://www.Shihang.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Automated Bone Drilling Robot</title>
+      <link>http://www.Shihang.com/project/automated-bone-drilling-robot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.Shihang.com/project/automated-bone-drilling-robot/</guid>
+      <description>&lt;p&gt;Against the backdrop of rapid advancement in the medical machinery sector, we responded to prevalent challenges faced by traditional orthopedic surgeons utilizing handheld bone drills. These issues encompassed deviations in drilling positions, inaccuracies in angles, and notable geometric discrepancies. In response, we engineered an efficient and highly precise orthopedic drilling surgical robot. The overarching objective was to harness automated mechanical systems as substitutes for surgeons, thereby liberating human resources, augmenting drilling precision and efficiency, and mitigating the incidence of medical mishaps.&lt;/p&gt;
+&lt;p&gt;Conducting thorough research, I delved into the intricacies of a specific orthopedic drilling surgical robot and embarked on an innovative redesign of its mechanical arm structure. By opting for a mobile joint at its extremity, the platform hosted a drilling apparatus, thereby ensuring drilling linearity and diminishing the occurrence of medical mishaps. Deliberate calibration of gear reduction ratios facilitated swift maneuvering towards predetermined operational positions through reverse propulsion. The resultant robot exhibited nuanced control over movement, proficiently rotating the drill bit for drilling while enabling lateral displacement of the drill bit.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Automated Surveying Robot</title>
+      <link>http://www.Shihang.com/project/automated-surveying-robot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.Shihang.com/project/automated-surveying-robot/</guid>
+      <description>&lt;p&gt;In the current fields of urban planning, traffic management, and environmental monitoring, there is a growing demand for high-precision map data. Traditional methods of map surveying often require significant manpower and time investment, with long update cycles that struggle to meet the requirements of real-time and accurate data. Consequently, researching efficient and automated map surveying solutions has become a focal point in these domains.&lt;/p&gt;
+&lt;p&gt;In our project, I served as the team leader, primarily responsible for tasks such as 3D modeling and simulation, acrylic sheet cutting, and 3D printing, ultimately translating design concepts into physical components. Other team members were tasked with the procurement of Raspberry Pi chips and STM32 microcontrollers, as well as the implementation of software through sourcing and integrating open-source code. Through collaborative efforts, our team successfully equipped the robot with various functionalities, including SLAM-based mapping and navigation, remote control, object tracking, visual recognition, and indoor autonomous navigation.&lt;/p&gt;
+&lt;p&gt;Of particular significance is the pivotal role of maps in our design, notably in the development of an intelligent parking system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Design of an Intelligent Parking System</title>
+      <link>http://www.Shihang.com/project/design-of-an-intelligent-parking-system/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.Shihang.com/project/design-of-an-intelligent-parking-system/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://www.Shihang.com/img/principle1.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
+&lt;p&gt;In the current challenge of escalating urban traffic congestion, the management and utilization of underground parking facilities have become pivotal components of urban traffic management. GPS positioning is often hindered by signal limitations underground, making it difficult to provide accurate location information. Additionally, other positioning technologies face significant challenges in maintaining precise positioning accuracy. In this context, the advantages of WiFi positioning technology are increasingly prominent, making it the ideal choice for intelligent parking systems.&lt;/p&gt;
+&lt;p&gt;I led a team of five members to complete a project that involved a vehicle detection device and a positioning system based on the WKNN algorithm implemented in Python. The project utilized an ESP8266MINID1 chip and ultrasonic modules to build the vehicle detection device, and data transmission was facilitated through four AP transmission sources. Eventually, a mobile application was developed, allowing users to access real-time location and available parking space information within the underground parking lot. My responsibilities included establishing a cloud platform, programming the ESP8266miniD1 module, developing the parking lot model, and recording experimental videos.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
